@@ -1,0 +1,4 @@
+autogen
+matplotlib
+numpy
+yfinance
